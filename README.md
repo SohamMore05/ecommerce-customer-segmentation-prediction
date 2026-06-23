@@ -50,7 +50,8 @@ This project focuses on customer segmentation and prediction using machine learn
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+<img width="1188" height="619" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/cc985a6e-77b5-45da-8fae-b8c57f1c4334" />
+
 
 ## Author
 
